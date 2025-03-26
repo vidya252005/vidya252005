@@ -41,11 +41,18 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat&logo=jupyter)  
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-yellow?style=flat&logo=googlecolab)  
 
-
+## 🚀 Projects 
 
 ### 🎮 **Gamified Learning Platform** (MERN | 2024)  
 - Designed an **interactive learning platform** for 10-16-year-olds.  
 - Implemented **gamification** with quizzes, challenges, and rewards.  
 - Integrated **leaderboards & badges** to boost engagement.  
 
+### **🧭**NavAR | AR City Navigation | Unity, ARKit/ARCore | 2024**  
+- Developed an **AR-based city navigation system** at **Genesys Hackathon**.  
+- Integrated **waypoint-based navigation**, **QR-code tracking**, and a **real-time map**.  
+
+### **🗞️**Fake News Detection | BERT, NLP | 2024**  
+- Built a **Fake News Detection model** using **BERT** at **Datathon Epoch**.  
+- Applied **NLP** to classify news articles as **fake or real**, optimizing via **fine-tuning**.  
 
