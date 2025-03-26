@@ -49,7 +49,7 @@
 - Integrated **leaderboards & badges** to boost engagement.  
 
 ### **🧭**NavAR | AR City Navigation | Unity, ARKit/ARCore | 2024 
-- Developed an **AR-based city navigation system** at **Genesys Hackathon**.  
+- Developed an **AR-based city navigation system** at **Genesys State level Hackathon**.  
 - Integrated **waypoint-based navigation**, **QR-code tracking**, and a **real-time map**.  
 
 ### **🗞️**Fake News Detection | BERT, NLP | 2024
