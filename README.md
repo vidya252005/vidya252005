@@ -3,7 +3,6 @@
 <p align="center">
   🚀 Aspiring AI/ML Engineer | Web Developer | Robotics Enthusiast <br>
   🎯  I'm diving deep into ROS, STM32, and AI-driven simulations to enhance my robotics and IoT knowledge. <br>
-  🌱 Currently learning Robotic OS
 </p>
 
 ---
