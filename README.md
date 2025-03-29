@@ -76,4 +76,7 @@
 </p>
 
 ---
+## 🤖MY RESUME
+[![Resume](https://img.shields.io/badge/Download-Resume-blue)](https://github.com/username/repository/raw/main/resume.pdf)
+
 
