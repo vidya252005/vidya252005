@@ -77,6 +77,6 @@
 
 ---
 ## 🤖MY RESUME
-[![Resume](https://img.shields.io/badge/Download-Resume-blue)](https://github.com/username/repository/raw/main/resume.pdf)
+[![Resume](https://img.shields.io/badge/Download-Resume-blue)](https://github.com/vidya252005/vidya252005/blob/main/RESUME.pdf)
 
 
